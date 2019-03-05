@@ -1,0 +1,13 @@
+ Ile potrzeba mnożeń by obliczyć w standardowy sposób:
+
+a) Iloczyn skalarny dwóch wektorów rozmiaru n
+b) Wartość wielomianu stopnia n. 
+c) Iloczyn dwóch wielomianów stopnia n.
+d) Iloczyn dwóch macierzy n×n.
+e) Wyznacznik macierzy n×n. 
+
+~a) N 
+~b) N 
+~c) N^2
+~d) N^3
+~e) N!
